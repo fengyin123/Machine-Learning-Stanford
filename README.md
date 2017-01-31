@@ -1,3 +1,3 @@
 # Machine-Learning-Stanford
 Exercises from Stanford CS299 taught by Andrew Ng on Coursera
-![alt tag](https://www.coursera.org/account/accomplishments/certificate/E4XHEUWR5KTP)
+[embed]https://drive.google.com/open?id=0B9UrX33EZqIydHFNV1czTm9DOUk[/embed]
